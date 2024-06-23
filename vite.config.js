@@ -9,7 +9,7 @@ export default defineConfig({
     // Ensure that Rollup options are configured correctly
     rollupOptions: {
       // Externalize dependencies that should not be bundled
-      external: ['react-redux', 'react-router-dom', 'react-gauge-chart', 'react-chartjs-2'], // Add other libraries you do not want to bundle here
+      external: ['react-redux'],
     },
   },
 });
