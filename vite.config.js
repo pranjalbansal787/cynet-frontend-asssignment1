@@ -9,7 +9,7 @@ export default defineConfig({
     // Ensure that Rollup options are configured correctly
     rollupOptions: {
       // Externalize dependencies that should not be bundled
-      external: ['redux', 'react-redux'], // Add other libraries you do not want to bundle here
+      external: ['react-redux'], // Add other libraries you do not want to bundle here
     },
   },
 });
