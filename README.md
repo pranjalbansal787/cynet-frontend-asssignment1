@@ -81,3 +81,13 @@
 
 - **[GitHub Repository](https://github.com/pranjalbansal787/cynet-frontend-asssignment1)**
 - **[Live Demo](https://cynet-frontend-asssignment-pranjal-bansal.vercel.app)**
+
+  ## Screenshots 📷
+![image](https://github.com/pranjalbansal787/cynet-frontend-asssignment1/assets/49375731/984c6d2f-ea18-45cc-a074-31c57b8103e2)
+![image](https://github.com/pranjalbansal787/cynet-frontend-asssignment1/assets/49375731/032cd72a-e972-43eb-bf66-d4f746d9c3c4)
+![image](https://github.com/pranjalbansal787/cynet-frontend-asssignment1/assets/49375731/78b3bd29-258e-448d-9f34-3408cc490363)
+![image](https://github.com/pranjalbansal787/cynet-frontend-asssignment1/assets/49375731/85294de1-5833-4635-bff3-65e49fd92ffe)
+
+
+
+
