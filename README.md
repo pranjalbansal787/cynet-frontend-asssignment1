@@ -80,4 +80,4 @@
 ## Links 🔗
 
 - **[GitHub Repository](https://github.com/pranjalbansal787/cynet-frontend-asssignment1)**
-- **[Live Demo](https://cynet-frontend-asssignment-pranjal-bansal.vercel.app/dashboard)**
+- **[Live Demo](https://cynet-frontend-asssignment-pranjal-bansal.vercel.app)**
